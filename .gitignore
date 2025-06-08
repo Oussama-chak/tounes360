@@ -1,0 +1,6 @@
+.env                    # Your API keys!
+chroma_db/             # Vector database
+__pycache__/           # Python cache
+*.log                  # Log files
+*secret*               # Any secrets
+*api_key*              # API key files
